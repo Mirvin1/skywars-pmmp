@@ -1,0 +1,15 @@
+name: Skywars
+author: Mirvin01
+main: Mirvin01\Main
+version: 0.0.1
+api: 5.0.0
+load: POSTWORLD
+commands:
+  sw:
+    description: "Управление игрой."
+    usage: "/sw help"
+    permission: sw.command.mirvin01
+permissions:
+  sw.command.mirvin01:
+    default: op
+    description: "Выдаёт право на использование всех команд плагина." 
