@@ -1,6 +1,6 @@
 name: Skywars
 author: Mirvin1
-main: Mirvin1\Main
+main: Mirvin01\Main
 version: 0.0.1
 api: 4.0.0
 load: POSTWORLD
