@@ -24,7 +24,7 @@ class LootGenerator implements Listener{
         "bricks"
     ];
 
-    public $cummonLoot = [
+    public $cammonLoot = [
 
     ];
 
