@@ -1,14 +1,14 @@
 name: Skywars
-author: Mirvin01
-main: Mirvin01\Main
+author: Mirvin1
+main: Mirvin1\Main
 version: 0.0.1
-api: 5.0.0
+api: 4.0.0
 load: POSTWORLD
 commands:
   sw:
     description: "Управление игрой."
     usage: "/sw help"
-    permission: sw.command.mirvin01
+    permission: sw.command.mirvin1
 permissions:
   sw.command.mirvin01:
     default: op
